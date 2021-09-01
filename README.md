@@ -1,2 +1,2 @@
-# Byte-Flayer
+# Byte Flayer
 Code visualiser
